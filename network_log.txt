@@ -1,0 +1,81 @@
+
+Currently active network: Ethernet
+Ethernet is already active.
+Ping to 8.8.8.8: Successful
+Ping to 8.8.4.4: Successful
+Switching from Ethernet 2 to Ethernet
+Ethernet is already active.
+After switching, currently active network: Ethernet
+
+Currently active network: Ethernet
+Ethernet is already active.
+Ping to 8.8.8.8: Successful
+Ping to 8.8.4.4: Successful
+Switching from Ethernet 2 to Ethernet
+Ethernet is already active.
+After switching, currently active network: Ethernet
+
+Currently active network: Ethernet
+Ethernet is already active.
+Ping to 8.8.8.8: Successful
+Ping to 8.8.4.4: Successful
+Switching from Ethernet 2 to Ethernet
+Ethernet is already active.
+After switching, currently active network: Ethernet
+
+Currently active network: Ethernet
+Ethernet is already active.
+Ping to 8.8.8.8: Successful
+Ping to 8.8.4.4: Successful
+Switching from Ethernet 2 to Ethernet
+Ethernet is already active.
+After switching, currently active network: Ethernet
+
+Currently active network: Ethernet
+Ethernet is already active.
+Ping to 8.8.8.8: Successful
+Ping to 8.8.4.4: Successful
+Switching from Ethernet 2 to Ethernet
+Ethernet is already active.
+After switching, currently active network: Ethernet
+
+Currently active network: Ethernet
+Ethernet is already active.
+Ping to 8.8.8.8: Successful
+Ping to 8.8.4.4: Successful
+Switching from Ethernet 2 to Ethernet
+Ethernet is already active.
+After switching, currently active network: Ethernet
+
+Currently active network: Ethernet
+Ethernet is already active.
+Ping to 8.8.8.8: Successful
+Ping to 8.8.4.4: Successful
+Switching from Ethernet 2 to Ethernet
+Ethernet is already active.
+After switching, currently active network: Ethernet
+
+Currently active network: Ethernet
+Ethernet is already active.
+Ping to 8.8.8.8: Successful
+Ping to 8.8.4.4: Successful
+Switching from Ethernet 2 to Ethernet
+Ethernet is already active.
+After switching, currently active network: Ethernet
+
+Currently active network: Ethernet
+Ethernet is already active.
+Ping to 8.8.8.8: Successful
+Ping to 8.8.4.4: Successful
+Switching from Ethernet 2 to Ethernet
+Ethernet is already active.
+After switching, currently active network: Ethernet
+
+Currently active network: Ethernet
+Ethernet is already active.
+Ping to 8.8.8.8: Successful
+Ping to 8.8.4.4: Successful
+Switching from Ethernet 2 to Ethernet
+Ethernet is already active.
+After switching, currently active network: Ethernet
+
